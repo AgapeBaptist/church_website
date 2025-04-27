@@ -1596,7 +1596,7 @@ input::-moz-focus-inner {
   letter-spacing: .3rem;
   color: #fb8b23;
   margin-top: 0;
-  margin-bottom: .3rem;
+  margin-bottom: 0rem;
   margin-left: 4px;
 }
 
