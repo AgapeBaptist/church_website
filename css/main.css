@@ -1589,9 +1589,9 @@ input::-moz-focus-inner {
 
 .subhead {
   font-family: "Montserrat", sans-serif;
-  font-size: 4.1rem;
+  font-size: 3.1rem;
   font-weight: 800;
-  line-height: 2.5;
+  line-height: 1.5;
   text-transform: uppercase;
   letter-spacing: .3rem;
   color: #fb8b23;
