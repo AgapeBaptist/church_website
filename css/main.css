@@ -2115,7 +2115,7 @@ input::-moz-focus-inner {
 
 .hero-content__text_1 {
   position: relative;
-  width: 200%;
+  width: 100%;
   max-width: 200%;
   margin: 0 auto; /* centers the section horizontally */
 }
