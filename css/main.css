@@ -2113,6 +2113,13 @@ input::-moz-focus-inner {
   position: relative;
 }
 
+.hero-content__text_1 {
+  position: relative;
+  width: 70%;
+  max-width: 70%;
+  margin: 0 auto; /* centers the section horizontally */
+}
+
 .hero-content h1 {
   font-weight: 700;
   font-size: 7.6rem;
