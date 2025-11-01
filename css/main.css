@@ -2527,11 +2527,13 @@ html.no-csstransitions . {
 .s-about .subhead {
   color: #fb8b23;
   margin-bottom: 4rem;
+   text-align: center;
 }
 
 .s-about .lead {
   color: #ffffff;
   margin-bottom: 4rem;
+   text-align: center;
 }
 
 .s-about .btn--about {
@@ -2542,16 +2544,7 @@ html.no-csstransitions . {
   border-color: #21070a;
 }
 
-.ai-style-change-1 {
-  .s-about .lead& {
-    text-align: center;
-  }
-}
-.ai-style-change-2 {
-  .s-about .subhead& {
-    text-align: center;
-  }
-}
+
 
 
 /* ------------------------------------------------------------------- 
