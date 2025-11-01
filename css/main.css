@@ -2546,7 +2546,7 @@ html.no-csstransitions . {
 
 
 li::marker {
-  color: red;
+  color: black;
   font-size: 1.2em;
 }
 
