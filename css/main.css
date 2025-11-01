@@ -2278,7 +2278,7 @@ html.ss-loaded .hero-content {
   animation-name: fadeIn;
 }
 
-html.no-csstransitions .hero-content {
+html.no-csstransitions . {
   opacity: 1;
 }
 
@@ -2401,9 +2401,9 @@ html.no-csstransitions .hero-content {
 
 }
 
-@media screen and (max-width:1200px) {
+@media screen and (max-width:1300px) {
   .hero-content {
-    max-width: 760px;
+    max-width: 900px;
   }
 
   .hero-content h1 {
