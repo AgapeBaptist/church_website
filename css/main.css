@@ -2100,7 +2100,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 .hero-content {
   height: 100%;
-  max-width: 1200px;
+  max-width: 1300px;
   padding-top: 20vh;
   padding-bottom: 18vh;
   -webkit-align-items: flex-end;
