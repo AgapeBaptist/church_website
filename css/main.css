@@ -2552,6 +2552,23 @@ li::marker {
   text-indent: -1em;
 }
 
+::marker {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: auto !important;
+}
+
+
+.ai-style-change {
+    li& {
+        padding-left: 20px;
+        list-style-position: inside;
+    }
+}
+
 /* ===================================================================
  * # about
  *
