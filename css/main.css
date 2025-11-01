@@ -2542,6 +2542,18 @@ html.no-csstransitions . {
   border-color: #21070a;
 }
 
+.ai-style-change-1 {
+  .s-about .lead& {
+    text-align: center;
+  }
+}
+.ai-style-change-2 {
+  .s-about .subhead& {
+    text-align: center;
+  }
+}
+
+
 /* ------------------------------------------------------------------- 
  * ## about content
  * ------------------------------------------------------------------- */
