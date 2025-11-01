@@ -223,9 +223,9 @@ p img {
 }
 
 p.lead {
-  font-family: "Times New Roman", serif;
+  font-family: "Lora", serif;
   font-weight: 500;
-  font-size: 2.6rem;
+  font-size: 2.8rem;
   line-height: 1.857;
   margin-bottom: 3.6rem;
   color: #000000;
@@ -233,7 +233,7 @@ p.lead {
 
 @media screen and (max-width:1200px) {
   p.lead {
-    font-size: 2.4rem;
+    font-size: 2.6rem;
   }
 
 }
@@ -1589,14 +1589,14 @@ input::-moz-focus-inner {
 
 .subhead {
   font-family: "Montserrat", sans-serif;
-  font-size: 3.1rem;
-  font-weight: 800;
-  line-height: 1;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
   text-transform: uppercase;
   letter-spacing: .3rem;
   color: #fb8b23;
   margin-top: 0;
-  margin-bottom: 0rem;
+  margin-bottom: .4rem;
   margin-left: 4px;
 }
 
@@ -2100,7 +2100,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 .hero-content {
   height: 100%;
-  max-width: 2000px;
+  max-width: 1400px;
   padding-top: 20vh;
   padding-bottom: 18vh;
   -webkit-align-items: flex-end;
@@ -2113,10 +2113,8 @@ input::-moz-focus-inner {
   position: relative;
 }
 
-
-
 .hero-content h1 {
-  font-weight: 600;
+  font-weight: 700;
   font-size: 7.6rem;
   line-height: 1.263;
   letter-spacing: 0;
