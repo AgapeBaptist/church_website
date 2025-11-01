@@ -8,3 +8,11 @@
     text-align: center;
   }
 }
+
+
+.ai-style-change-1 {
+  .hero-content h1& {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
