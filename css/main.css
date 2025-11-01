@@ -2549,6 +2549,7 @@ li::marker {
   color: black;
   font-size: 1.2em;
   padding-left:30px;
+  text-indent: -1em;
 }
 
 /* ===================================================================
