@@ -2544,6 +2544,12 @@ html.no-csstransitions . {
   text-decoration: underline; /* Add underline on hover */
 }
 
+
+li::marker {
+  color: red;
+  font-size: 1.2em;
+}
+
 /* ===================================================================
  * # about
  *
