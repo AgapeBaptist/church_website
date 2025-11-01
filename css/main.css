@@ -2534,6 +2534,16 @@ html.no-csstransitions . {
   background-color: #d6d6d6; /* Slightly darker background when hovered */
 }
 
+.hover-blue-link {
+  color: white;             /* Default text color */
+  text-decoration: none;    /* Remove default underline */
+}
+
+.hover-blue-link:hover {
+  color: blue;              /* Text color on hover */
+  text-decoration: underline; /* Add underline on hover */
+}
+
 /* ===================================================================
  * # about
  *
