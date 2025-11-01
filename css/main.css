@@ -2512,6 +2512,27 @@ html.no-csstransitions . {
 
 }
 
+.meeting-link-box {
+  display: inline-block; 
+  padding: 0px 2px; 
+  background-color: #e6e6e6; 
+  border: 1px solid #ccc; 
+  border-radius: 3px; 
+  margin-left: 5px;
+  cursor: pointer; 
+  font-size: 0.8em; 
+  color: #333; 
+  text-decoration: none; 
+}
+
+.meeting-link {
+  text-decoration: none; /* Removes the default underline from the entire link */
+  color: inherit; /* Ensures the link text inherits color from its parent, if not specified elsewhere */
+}
+
+.meeting-link:hover .meeting-link-box {
+  background-color: #d6d6d6; /* Slightly darker background when hovered */
+}
 
 /* ===================================================================
  * # about
