@@ -2100,7 +2100,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 .hero-content {
   height: 100%;
-  max-width: 1300px;
+  max-width: 1400px;
   padding-top: 20vh;
   padding-bottom: 18vh;
   -webkit-align-items: flex-end;
@@ -2115,7 +2115,7 @@ input::-moz-focus-inner {
 
 .hero-content h1 {
   font-weight: 700;
-  font-size: 7.6rem;
+  font-size: 4.5rem;
   line-height: 1.263;
   letter-spacing: 0;
   color: #ffffff;
@@ -2376,7 +2376,7 @@ html.no-csstransitions . {
   }
 
   .hero-content {
-    max-width: 1100px;
+    max-width: 1300px;
   }
 
   .hero-content h1 {
