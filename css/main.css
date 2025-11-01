@@ -2548,6 +2548,7 @@ html.no-csstransitions . {
 li::marker {
   color: black;
   font-size: 1.2em;
+  padding-left:10px;
 }
 
 /* ===================================================================
